@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "dc-npm-sw": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiantestacc/dc-npm-decoratewizard.git"
   }
 }
