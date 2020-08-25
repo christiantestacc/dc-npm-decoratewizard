@@ -1,0 +1,14 @@
+{
+  "name": "dc-npm-decoratewizard",
+  "version": "1.0.0",
+  "description": "This tests wrapping an npm package in another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Farris",
+  "license": "ISC",
+  "dependencies": {
+    "dc-npm-sw": "^1.0.1"
+  }
+}
