@@ -8,8 +8,8 @@ function DecorateWizard(options) {
     e.style.textDecoration = options.decoration
   })
   BorderWizard({
-    borderType: 'black',
-    padding: true,
+    borderType: options.borderType,
+    padding: options.padding,
   })
 }
 

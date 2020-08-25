@@ -9,7 +9,7 @@
   "author": "Christian Farris",
   "license": "ISC",
   "dependencies": {
-    "dc-npm-sw": "^1.0.1"
+    "dc-npm-sw": "^1.0.2"
   },
   "repository": {
     "type": "git",
